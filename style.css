@@ -1,0 +1,38 @@
+.parant{
+    margin: 50px auto;
+    min-height: 500px;
+    max-width: 1200px;
+    border: 5px solid black;
+    border-radius: 15px;
+    background-color: blanchedalmond;
+    flex-wrap: wrap;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-end;
+    }
+    #mol{
+        color: steelblue;
+    }
+    #word{
+        color: darkcyan;
+    }
+.child{ 
+    display: flex;
+    margin-right: 800px;
+    flex-direction: column;
+    margin-top: 2px;
+}
+.pic{
+    display: flex;
+    margin-top: 50px;
+}
+
+.explore{
+    padding-left: 30px;
+    padding-top: 10px;
+    margin: 12px auto;
+    border: 1px solid black;
+    border-radius: 10px;
+    height: 40px;
+    width: 120px;
+}
